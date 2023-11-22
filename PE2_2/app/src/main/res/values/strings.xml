@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PE2_2</string>
+    <string name="note_name">Note</string>
+    <string name="save">Add</string>
+    <string name="delete">Delete note</string>
+    <string name="textfield_note_hint">Type your note</string>
+    <string name="toast_error_message">Please type your note</string>
+    <string name="circular_loading_icon_description">Circular loading icon</string>
+    <string name="empty_list_mesage">Empty list, add a new note</string>
+</resources>
